@@ -32,8 +32,7 @@ if You have urls which is give xml or AccessDenied like this:-
 this npm module support it and render initials or user name.
 
 ## Credits
-
-@wbinnssmith
+@https://github.com/mahendramahi
 
 ##License
 
