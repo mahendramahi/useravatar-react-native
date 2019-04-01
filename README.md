@@ -2,13 +2,9 @@
 
 
 A bare-bones user avatar display with support for falling back to using the user's initials on a colored background as the avatar.
-Based on the great library for React: https://github.com/wbinnssmith/react-user-avatar, and ported to React Native.
+Based on the great library for React: https://github.com/mahendramahi/useravatar-react-native, and ported to React Native.
 
-<<<<<<< HEAD
-
-=======
-![](https://imgur.com/OKBK7Nz)
->>>>>>> a15c5ebffcc91d4879886088715ccd438e35e681
+<img src="https://github.com/mahendramahi/useravatar-react-native/blob/master/screen/img.png" width="300" >
 
 ## Installation
 
@@ -30,21 +26,13 @@ Based on the great library for React: https://github.com/wbinnssmith/react-user-
       />
 ```
 
-## User-defined Image-Component
-
-It is also possible to use another Image-Component than the built-in `<Image>`.
-
-```js
-  <UserAvatar size="50" name="John Doe" component={CachedImage} />
-```
-
-The fallback avatar's color may be set by passing in the `color` prop, or you can customize the range of colors
-used by passing in an array of `colors`. The component uses a simple calculation to consistently use the same
-color for the same user's name every time.
+## Handle onError of image
+if You have urls which is give xml or AccessDenied like this:-
+<img src="https://truworth-video-in.s3-ap-south-1.amazonaws.com/foodimags/initial-image.png" width="200">
+this npm module support it and render initials or user name.
 
 ## Credits
-
-@wbinnssmith
+@https://github.com/mahendramahi
 
 ##License
 
