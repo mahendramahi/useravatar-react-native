@@ -1,0 +1,24 @@
+{
+  "name": "useravatar-react-native",
+  "version": "1.0.2",
+  "description": "React Native component for a user avatar with fallback to colored initials",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "avatar",
+    "initials"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahendra Sharma <mahendrasharma.sharma369@gmail.com>",
+  "repository": "github:mahendramahi",
+  "license": "MIT",
+  "dependencies": {
+    "initials": "^3.0.0"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.53.1"
+  }
+}
