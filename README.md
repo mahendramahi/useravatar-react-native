@@ -5,6 +5,8 @@ A bare-bones user avatar display with support for falling back to using the user
 Based on the great library for React: https://github.com/mahendramahi/useravatar-react-native, and ported to React Native.
 
 <img src="https://github.com/mahendramahi/useravatar-react-native/blob/master/screen/img.png" width="150" >
+<img src="https://pasteboard.co/IbzWzL1.png" width="150" >
+
 
 ## Installation
 
