@@ -1,6 +1,8 @@
 # React Native UserAvatar
 
 
+https://www.npmjs.com/package/useravatar-react-native
+
 A bare-bones user avatar display with support for falling back to using the user's initials on a colored background as the avatar.
 Based on the great library for React: https://github.com/mahendramahi/useravatar-react-native, and ported to React Native.
 
